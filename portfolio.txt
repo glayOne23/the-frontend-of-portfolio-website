@@ -1,0 +1,15 @@
+API for Mail Management at Muhamadiyah University of Surakarta
+http://eprints.ums.ac.id/82503/
+This API uses Django REST for the framework and JWT for authentication. Users can send mail between faculties
+
+API Portfolio  Website 
+-
+It is API for Front End portfolio website. Developed using Lumen Framework. It is contain users table, introduction table to save simple introduction, works table to save projects data, and connections table to save personal contact.
+
+SMA 3 Boyolali Website 
+https://github.com/glayOne23/sma3boyolali
+This is a website built using the laravel framework. This website contains the main page and the admin page.  In the admin page, admin can do CRUD for blog, achievement, home, gallery that will be shown on the main page
+
+Front End Portfolio
+- 
+Website to show porfolio that contains simple personal data, recent projects, and personal contact. It is built using Vue Framework. You can visit the website at this url www.google.com 
